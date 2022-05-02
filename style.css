@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+main{
+    margin: auto;
+    width: 565px;
+}
+canvas {
+  display: block;
+}
+
+input, select{
+  position: relative !important;
+}
